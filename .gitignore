@@ -20,5 +20,3 @@ dist/
 *.log
 npm-debug.log*
 
-# Playwright browsers (large binaries)
-/browsers/
